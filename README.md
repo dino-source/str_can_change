@@ -28,5 +28,5 @@ After that, no pieces can move anymore, so it is impossible to obtain the string
  
 ## Constraints:
 n == start.length == target.length \
-${1 <= {n} <= 10^5}$ \
+1 <= n <= ${10^5}$ \
 start and target consist of the characters `'L'`, `'R'`, and `'_'`.
