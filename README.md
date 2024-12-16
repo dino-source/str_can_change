@@ -1,4 +1,4 @@
-# LeetCode problem 2337
+# LeetCode problem 2337: Move Pieces to Obtain a String
 
 You are given two strings `start` and `target`, both of length `n`.
 Each string consists _only_ of the characters `'L'`, `'R'`, and `'_'` where:
