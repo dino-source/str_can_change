@@ -27,6 +27,6 @@ After that, no pieces can move anymore, so it is impossible to obtain the string
 **Explanation:** The piece in the string start can move only to the right, so it is impossible to obtain the string target from start.
  
 ## Constraints:
-n == start.length == target.length \
+n $==$ start.length $==$ target.length \
 $1 <=$ n $<= {10^5}$ \
 start and target consist of the characters `'L'`, `'R'`, and `'_'`.
